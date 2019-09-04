@@ -4,6 +4,10 @@
     $body = str_replace("{{first}}",$first,$body);
 
     $last = $_GET['v2'];        
-    $body = str_replace("{{last}}",$last,$body);
+    $body = str_replace("{{last}}",$last,$body); 
 
     echo $body;
+
+    //워킹 디렉터리 ->스테이지 :add , 스테이지 -> 저장소 저장 :commit
+    //dir -> php -S localhost:8000 서버 띄우기
+    //$ 변수
