@@ -2,4 +2,4 @@
 수업 내용 정리
 
 화면 캡쳐...
-![IMAGES](./images/1.1.jpg)
+![IMAGES](./images/1.jpg)
